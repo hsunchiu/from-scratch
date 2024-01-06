@@ -29,3 +29,13 @@ const three = "three"
 <div id="app-a"></div>
 <div id="app-a"></div>
 ```
+
+#### Seleclt mode
+```txt
+alias vim="nvim"
+gh        Character-wise select mode
+gH         Line-wise select mode
+gCtrl-h    Block-wise select mode
+```
+
+
