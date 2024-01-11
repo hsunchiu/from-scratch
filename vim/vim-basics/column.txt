@@ -1,4 +1,0 @@
-Id|Name|Cuteness
-01|Puppy|Very
-02|Kitten|Ok
-03|Bunny|Ok
