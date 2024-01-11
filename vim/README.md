@@ -27,6 +27,7 @@
     | O | ko | 
 
 3. Take On step Back, Then Forward
+
     f{char}, s{word}<ESC>,
     ; to repeat fellow,
     . to do the change again.
