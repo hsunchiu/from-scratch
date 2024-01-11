@@ -66,10 +66,7 @@ These all play off of the ctrl-b shortcut.
 
 ## More
 
-    1. [https://hamvocke.com/blog/a-quick-and-easy-guide-to-tmux/](https://hamvocke.com/blog/a-quick-and-easy-guide-to-tmux/)
-
-    2. [https://www.ruanyifeng.com/blog/2019/10/tmux.html](https://www.ruanyifeng.com/blog/2019/10/tmux.html)
-
-    3. [https://linuxize.com/post/getting-started-with-tmux/](https://linuxize.com/post/getting-started-with-tmux/)
-
-    4. [https://danielmiessler.com/p/tmux/](https://danielmiessler.com/p/tmux/)
+1. [https://hamvocke.com/blog/a-quick-and-easy-guide-to-tmux/](https://hamvocke.com/blog/a-quick-and-easy-guide-to-tmux/)
+2. [https://www.ruanyifeng.com/blog/2019/10/tmux.html](https://www.ruanyifeng.com/blog/2019/10/tmux.html)
+3. [https://linuxize.com/post/getting-started-with-tmux/](https://linuxize.com/post/getting-started-with-tmux/)
+4. [https://danielmiessler.com/p/tmux/](https://danielmiessler.com/p/tmux/)
