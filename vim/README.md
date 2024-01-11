@@ -53,4 +53,4 @@
 
 6. Meet the Dot Formula
 
-The Ideal: One kyestroke to Move, One Keystroke to Execute.
+    The Ideal: One kyestroke to Move, One Keystroke to Execute.
